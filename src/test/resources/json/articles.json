@@ -1,0 +1,5 @@
+{
+  "articles" : [
+    {"_id" : "article", "class" : "article", "title" : "title"}
+  ]
+}
